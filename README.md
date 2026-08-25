@@ -50,7 +50,10 @@ The following diagnostic analysis on **Qwen2.5-Omni-7B / CMM** visualizes the tw
 
 The following example is evaluated with **Qwen2.5-Omni-7B**, where A, V, and AV denote the predictions from the audio-only, video-only, and joint audio-visual branches, respectively.
 
-<video src="assets/demos/cad_sheep_bleating_case.mp4" controls preload="metadata" width="100%"></video>
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/8928d979-44b9-4496-9d24-ef0bae225ec8" controls width="90%">
+  </video>
+</p>
 
 **Question:** Did you hear sheep bleating in the audio?  
 **Ground Truth:** **No**
